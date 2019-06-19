@@ -4,22 +4,22 @@ import{
     Link
   }from 'react-router-dom';
   
-//  const filePath ='./TheFullStackDeveloper/NickJVelascoResume.pdf';
-class Header extends React.Component{
+  const filePath ='./NickJVelascoResume.pdf';
+class HeaderMobile extends React.Component{
     render(){
         return(
             
             <header>
-                <div className="logo">
-                    <ul>Nick J. Velasco
-                    {/*<li>The Full Stack Developer</li>*/}
+             {/*   <div className="logo">
+                   {/*< <ul>Nick J. Velasco
+                    {/*<li>The Full Stack Developer</li>
                     <li>"Silverback"</li>
                 </ul>
-                </div>
+                </div>*/}
                 <nav>
                     <ul> 
                         <li className='first'>
-                            <Link to="/Home">Home</Link>
+                            <Link to="/HomeMobile">Home</Link>
                             {/*<a href="#">Home</a>*/}
                         </li>
                         <li>
@@ -43,4 +43,4 @@ class Header extends React.Component{
     }
 }
 
-export default Header;
+export default HeaderMobile;

@@ -1,4 +1,4 @@
-@import "_config.scss";
+@import "./_config.scss";
 
 header{
     position: relative;
@@ -7,7 +7,7 @@ header{
     background: $black;
     color: $white;
     height: 90px;
-
+   
     .logo{
     position: absolute;
     top:50%; left:15px;

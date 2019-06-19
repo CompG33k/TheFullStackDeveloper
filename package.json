@@ -16,6 +16,7 @@
     "react-pdf": "^4.1.0",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
+    "react-tabs": "^3.0.0",
     "typescript": "^3.5.2"
   },
   "scripts": {
@@ -23,9 +24,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy": "gh-pages -d build",
-    "eject":"react-scripts eject"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
