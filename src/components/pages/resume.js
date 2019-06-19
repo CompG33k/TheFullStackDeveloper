@@ -7,7 +7,7 @@ class Resume extends Component {
             
             <div className={'resume-container'}>
                 <object width="100%" height="800px"
-                data='https://compg33k.github.io/TheFullStackDeveloper/NickJVelascoResume.pdf' type="application/pdf">   </object>
+                data='/CompG33k/TheFullStackDeveloper/raw/gh-pages/NickJVelascoResume.pdf' type="application/pdf">   </object>
                 
 {/*                <div id={'resume-pdf'}>You can view, download 
                 <a href={'./NickJVelascoResume.pdf'}>Nick J Velasco Resume</a>
