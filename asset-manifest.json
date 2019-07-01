@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/TheFullStackDeveloper/static/css/main.4abdc644.chunk.css",
-    "main.js": "/TheFullStackDeveloper/static/js/main.4237479c.chunk.js",
-    "main.js.map": "/TheFullStackDeveloper/static/js/main.4237479c.chunk.js.map",
-    "runtime~main.js": "/TheFullStackDeveloper/static/js/runtime~main.6a124bf9.js",
-    "runtime~main.js.map": "/TheFullStackDeveloper/static/js/runtime~main.6a124bf9.js.map",
-    "static/js/2.f0d8cdf8.chunk.js": "/TheFullStackDeveloper/static/js/2.f0d8cdf8.chunk.js",
-    "static/js/2.f0d8cdf8.chunk.js.map": "/TheFullStackDeveloper/static/js/2.f0d8cdf8.chunk.js.map",
-    "03299f19ce2795222c86.worker.js": "/TheFullStackDeveloper/03299f19ce2795222c86.worker.js",
-    "03299f19ce2795222c86.worker.js.map": "/TheFullStackDeveloper/03299f19ce2795222c86.worker.js.map",
-    "index.html": "/TheFullStackDeveloper/index.html",
-    "precache-manifest.c3c1a0e09920b7256f4618db1cf9c9c4.js": "/TheFullStackDeveloper/precache-manifest.c3c1a0e09920b7256f4618db1cf9c9c4.js",
-    "service-worker.js": "/TheFullStackDeveloper/service-worker.js",
-    "static/css/main.4abdc644.chunk.css.map": "/TheFullStackDeveloper/static/css/main.4abdc644.chunk.css.map",
-    "static/media/GorillaSuit.PNG": "/TheFullStackDeveloper/static/media/GorillaSuit.3d0ba7d0.PNG"
+    "main.css": "/TheFullStackDeveloper/home/static/css/main.4abdc644.chunk.css",
+    "main.js": "/TheFullStackDeveloper/home/static/js/main.63f2a6bc.chunk.js",
+    "main.js.map": "/TheFullStackDeveloper/home/static/js/main.63f2a6bc.chunk.js.map",
+    "runtime~main.js": "/TheFullStackDeveloper/home/static/js/runtime~main.bf2ffeb2.js",
+    "runtime~main.js.map": "/TheFullStackDeveloper/home/static/js/runtime~main.bf2ffeb2.js.map",
+    "static/js/2.b352072a.chunk.js": "/TheFullStackDeveloper/home/static/js/2.b352072a.chunk.js",
+    "static/js/2.b352072a.chunk.js.map": "/TheFullStackDeveloper/home/static/js/2.b352072a.chunk.js.map",
+    "b72d3a149e6ca15afb7e.worker.js": "/TheFullStackDeveloper/home/b72d3a149e6ca15afb7e.worker.js",
+    "b72d3a149e6ca15afb7e.worker.js.map": "/TheFullStackDeveloper/home/b72d3a149e6ca15afb7e.worker.js.map",
+    "index.html": "/TheFullStackDeveloper/home/index.html",
+    "precache-manifest.5771e718fa041683cd4d7f2fa6f62197.js": "/TheFullStackDeveloper/home/precache-manifest.5771e718fa041683cd4d7f2fa6f62197.js",
+    "service-worker.js": "/TheFullStackDeveloper/home/service-worker.js",
+    "static/css/main.4abdc644.chunk.css.map": "/TheFullStackDeveloper/home/static/css/main.4abdc644.chunk.css.map",
+    "static/media/GorillaSuit.PNG": "/TheFullStackDeveloper/home/static/media/GorillaSuit.3d0ba7d0.PNG"
   }
 }
