@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TheFullStackDeveloper/static/css/main.4abdc644.chunk.css",
-    "main.js": "/TheFullStackDeveloper/static/js/main.efb958a4.chunk.js",
-    "main.js.map": "/TheFullStackDeveloper/static/js/main.efb958a4.chunk.js.map",
+    "main.js": "/TheFullStackDeveloper/static/js/main.b496f011.chunk.js",
+    "main.js.map": "/TheFullStackDeveloper/static/js/main.b496f011.chunk.js.map",
     "runtime~main.js": "/TheFullStackDeveloper/static/js/runtime~main.6a124bf9.js",
     "runtime~main.js.map": "/TheFullStackDeveloper/static/js/runtime~main.6a124bf9.js.map",
     "static/js/2.1918a389.chunk.js": "/TheFullStackDeveloper/static/js/2.1918a389.chunk.js",
@@ -10,7 +10,7 @@
     "03299f19ce2795222c86.worker.js": "/TheFullStackDeveloper/03299f19ce2795222c86.worker.js",
     "03299f19ce2795222c86.worker.js.map": "/TheFullStackDeveloper/03299f19ce2795222c86.worker.js.map",
     "index.html": "/TheFullStackDeveloper/index.html",
-    "precache-manifest.fd624f3b94a6f54ca1bc6e73beb62cc0.js": "/TheFullStackDeveloper/precache-manifest.fd624f3b94a6f54ca1bc6e73beb62cc0.js",
+    "precache-manifest.f01b5e48fe2df0ef418b01f57d5c71e7.js": "/TheFullStackDeveloper/precache-manifest.f01b5e48fe2df0ef418b01f57d5c71e7.js",
     "service-worker.js": "/TheFullStackDeveloper/service-worker.js",
     "static/css/main.4abdc644.chunk.css.map": "/TheFullStackDeveloper/static/css/main.4abdc644.chunk.css.map",
     "static/media/GorillaSuit.PNG": "/TheFullStackDeveloper/static/media/GorillaSuit.3d0ba7d0.PNG"
