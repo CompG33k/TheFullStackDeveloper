@@ -4,20 +4,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TheFullStackDeveloper/03299f19ce2795222c86.worker.js"
   },
   {
-    "revision": "a5a4f3af7e1c80f91dd040bd90fef3c3",
+    "revision": "b9656b1a23ca31cf4bdf555e79ac4de7",
     "url": "/TheFullStackDeveloper/index.html"
   },
   {
-    "revision": "dee30bb25a715861bbda",
-    "url": "/TheFullStackDeveloper/static/css/main.4abdc644.chunk.css"
+    "revision": "7540cafabf8fc02982a3",
+    "url": "/TheFullStackDeveloper/static/css/main.580d70fe.chunk.css"
   },
   {
     "revision": "b4b53eb33679f2835585",
     "url": "/TheFullStackDeveloper/static/js/2.0c945837.chunk.js"
   },
   {
-    "revision": "dee30bb25a715861bbda",
-    "url": "/TheFullStackDeveloper/static/js/main.24ef3f86.chunk.js"
+    "revision": "7540cafabf8fc02982a3",
+    "url": "/TheFullStackDeveloper/static/js/main.4925729c.chunk.js"
   },
   {
     "revision": "466e880b092f9ea3e000",
