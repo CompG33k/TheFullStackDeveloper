@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is available to view  [TheFullStackDevloper](https://compg33k.github.io/TheFullStackDeveloper/).
 
 ## Available Scripts
 
