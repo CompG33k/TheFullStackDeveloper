@@ -8,18 +8,19 @@ class History extends React.Component{
             <div className="container-fluid">
                 <h1>
                     My History
+                    <br/>
                 </h1>
                 <p>
-                    <li>
-                        <a  href="https://github.com/CompG33k" target="_blank">CompGeek Work in GitHub</a>
+                ( click below for details )
+                <br/>
+                <br/>
+                    <li id='list2'> 
+                        <a  href="https://github.com/CompG33k" target="_blank">Work in GitHub</a>
                     </li>
-                    <li>
-                        <a  href="https://www.linkedin.com/in/nick-velasco-b9ba5114/" target="_blank">Nick Velasco LinkedIn profile</a>
+                    <li id='list2'>
+                        <a  href="https://www.linkedin.com/in/nick-velasco-b9ba5114/" target="_blank">LinkedIn profile</a>
                     </li>
-                    
-                </p>
-             
-              
+                </p> 
             </div>
         );
     }
